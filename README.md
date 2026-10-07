@@ -1,1 +1,3 @@
 # ZaawansowaneProgramowanie
+
+Repozytorium na potrzeby przedmiotu Zaawansowane Programowanie
