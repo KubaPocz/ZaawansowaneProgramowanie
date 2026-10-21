@@ -90,23 +90,5 @@ order2 = Order(
     "2026-10-21"
 )
 
-
-print("=== LIBRARIES ===")
-print(library1)
-print(library2)
-
-print("\n=== BOOKS ===")
-for book in [book1, book2, book3, book4, book5]:
-    print(book)
-
-print("\n=== EMPLOYEES ===")
-for employee in [employee1, employee2, employee3]:
-    print(employee)
-
-print("\n=== STUDENTS ===")
-for student in [student1, student2, student3]:
-    print(student)
-
-print("\n=== ORDERS ===")
 print(order1)
 print(order2)
